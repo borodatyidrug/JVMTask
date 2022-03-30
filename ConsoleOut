@@ -1,0 +1,13 @@
+1   12:29:51.518707: loading io.vertx
+2   12:29:53.647765: loaded 529 classes
+3   12:29:56.682015: loading io.netty
+4   12:29:59.212239: loaded 2117 classes
+5   12:30:02.213586: loading org.springframework
+6   12:30:03.094159: loaded 869 classes
+7   12:30:06.095461: now see heap
+8   12:30:06.097205: creating 5000000 objects
+9   12:30:07.382240: created
+10  12:30:10.384626: creating 5000000 objects
+11  12:30:11.445245: created
+12  12:30:14.617951: creating 5000000 objects
+13  12:30:15.521642: created
